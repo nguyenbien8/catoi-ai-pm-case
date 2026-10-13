@@ -4,7 +4,7 @@
 |---|---|---|
 | PRD ([03](03-prd.md)) | Liệt kê cách AI có thể gây hại, chấm mức độ, đặt biện pháp | Yêu cầu ngược lại cho **03 PRD** (non-goals, chuyển người) và **04** (mức tự chủ của AI) |
 
-> Phương pháp lấy từ bài [Day 21](https://github.com/nguyenbien8/DAY21_Track1_2A202602416_NguyenVanBien): tách **sự kiện** và **nhận định**, hỏi ai chịu thiệt khi AI sai.
+> Nguyên tắc: tách **sự kiện** và **nhận định**, hỏi ai chịu thiệt khi AI sai.
 
 ## 1. Ma trận rủi ro
 

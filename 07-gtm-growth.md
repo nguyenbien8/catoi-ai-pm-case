@@ -4,7 +4,7 @@
 |---|---|---|
 | Giá + điểm gãy ([06](06-pricing.md)), đèn báo ([05](05-metrics.md)) | Chọn 1 kênh, dựng dashboard vận hành, viết luật quyết định trước khi có số | Luật và cổng 90 ngày → **10** ghi quyết định khi chạy thật |
 
-> **Số mô hình**, lấy từ bài [Day 23](https://github.com/nguyenbien8/K4-L3-DAY23-NguyenVanBien-2A202602416-AIProductGrowth). Ngày trong kế hoạch là **[Giả định]** cho kịch bản pilot.
+> **Số mô hình**, chưa phải số thực tế. Ngày trong kế hoạch là **[Giả định]** cho kịch bản pilot.
 
 ## 1. Kênh
 

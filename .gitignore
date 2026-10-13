@@ -1,0 +1,5 @@
+# Không đưa file ghi âm lên GitHub
+*.mp3
+*.m4a
+*.wav
+*.mp4

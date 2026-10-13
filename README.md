@@ -2,9 +2,9 @@
 
 > **CaTối**: AI trực inbox Fanpage ca tối cho shop thời trang bán qua Haravan. AI trả lời các câu hỏi về giá, size, còn hàng, phí ship và lên đơn nháp để chủ shop xác nhận.
 >
-> **Tác giả:** Nguyễn Văn Biển · AI Thực Chiến Khóa IV, Track 1 – AI Product Manager · 10/2026
+> **Tác giả:** Nguyễn Văn Biển · 10/2026
 
-> ⚠️ **Trạng thái:** đây là **case study**, chưa phải sản phẩm đang có khách. Số tài chính là **số mô hình** (từ bài Day 22–23 của Track 1). Discovery đang chờ phỏng vấn thật: [`02-discovery/`](02-discovery/). Mọi chỗ là giả định đều ghi rõ là **[Giả định]**.
+> ⚠️ **Trạng thái:** đây là **case study**, chưa phải sản phẩm đang có khách. Số tài chính là **số mô hình**, chưa phải số thực tế. Discovery đang chờ phỏng vấn thật: [`02-discovery/`](02-discovery/). Mọi chỗ là giả định đều ghi rõ là **[Giả định]**.
 
 ---
 
@@ -55,6 +55,3 @@ flowchart LR
 4. **Giá:** phí tối thiểu 1,56 triệu ₫/tháng + 3.900 ₫/hội thoại xử lý xong, biên lợi nhuận gộp mô hình **68,4%**. Mô hình **gãy** nếu tỷ lệ AI tự xử lý dưới 44% hoặc chi phí LLM tăng 1,8×.
 5. **Luật dừng có sẵn từ đầu:** nếu sau một lần sửa mà các chỉ số vẫn dưới ngưỡng thì dừng sản phẩm, không "cố thêm".
 
-## 4. Nguồn
-
-Phần định giá và dashboard dựa trên bài cá nhân của tôi trong Track 1: [Day 22 – Monetization & GTM](https://github.com/nguyenbien8/Track1_Day22_2A202602416_NguyenVanBien), [Day 23 – AI Product Growth](https://github.com/nguyenbien8/K4-L3-DAY23-NguyenVanBien-2A202602416-AIProductGrowth). Phương pháp discovery và test 3 phương án dựa trên [Day 17](https://github.com/nguyenbien8/Track1_Day17_2A202602416_NguyenVanBien), [Day 19](https://github.com/nguyenbien8/Track1_Day19_2A202602416_NguyenVanBien) và [Day 20](https://github.com/nguyenbien8/Track1_Day20_2A202602416_NguyenVanBien).

@@ -4,7 +4,7 @@
 |---|---|---|
 | Core action từ PRD ([03](03-prd.md)) | Định nghĩa "job xong", chọn North Star, đặt nhịp đo, viết tracking plan | Định nghĩa job xong → **06** tính giá theo job; các đèn → **07** dashboard |
 
-> Phương pháp lấy từ bài [Day 20](https://github.com/nguyenbien8/Track1_Day20_2A202602416_NguyenVanBien): tách **thao tác UI**, **output của AI** và **giá trị của người dùng**.
+> Nguyên tắc: tách **thao tác UI**, **output của AI** và **giá trị của người dùng**.
 
 ## 1. Định nghĩa "job xong"
 

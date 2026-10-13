@@ -4,7 +4,7 @@
 |---|---|---|
 | PRD ([03](03-prd.md)), giả thuyết C về niềm tin | Thiết kế 3 phương án khác nhau ở **mức tự chủ của AI**, test với chủ shop thật | Phương án được chọn → **05** chốt core action, **06** tính lại giá nếu giá trị thay đổi |
 
-> Phương pháp lấy từ bài [Day 19](https://github.com/nguyenbien8/Track1_Day19_2A202602416_NguyenVanBien): giữ cùng một tình huống cho cả 3 phương án, chỉ thay cơ chế, để so sánh công bằng.
+> Nguyên tắc: giữ cùng một tình huống cho cả 3 phương án, chỉ thay cơ chế, để so sánh công bằng.
 
 ## 1. Giữ nguyên cho cả 3 phương án
 
@@ -36,4 +36,4 @@
 
 ## 4. Kết quả
 
-> 🔧 Chưa test. Ghi theo 4 lớp như Day 19: **Đã thấy** → **Diễn giải** → **Thay đổi tiếp theo** → **Vẫn chưa chứng minh**.
+> 🔧 Chưa test. Ghi theo 4 lớp: **Đã thấy** → **Diễn giải** → **Thay đổi tiếp theo** → **Vẫn chưa chứng minh**.

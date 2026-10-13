@@ -4,7 +4,7 @@
 |---|---|---|
 | Định nghĩa "job xong" ([05](05-metrics.md)) | Tính chi phí mỗi job, đặt giá sàn, chọn value metric, stress test | Giá + điểm gãy → **07** đặt ngưỡng đèn và luật quyết định |
 
-> **Số mô hình**, lấy từ file Excel bài [Day 22](https://github.com/nguyenbien8/Track1_Day22_2A202602416_NguyenVanBien). Giá API kiểm tra ngày 08/10/2026, tỷ giá 26.190 ₫/USD.
+> **Số mô hình**, chưa phải số thực tế. Giá API kiểm tra ngày 08/10/2026, tỷ giá 26.190 ₫/USD.
 
 ## 1. Năm con số
 

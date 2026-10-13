@@ -28,6 +28,7 @@
 
 ## 3. Tài liệu
 
+- [recruiting.md](recruiting.md): tìm người, tin nhắn mời, bảng theo dõi
 - [interview-guide.md](interview-guide.md): tiêu chí chọn người và bộ câu hỏi
 - [interview-notes-template.md](interview-notes-template.md): mẫu ghi chép mỗi buổi
 - [synthesis.md](synthesis.md): tổng hợp sau khi có ít nhất 3 buổi
