@@ -4,7 +4,7 @@
 |---|---|---|
 | Problem statement ([01](../01-problem.md)) | Viết giả thuyết + evidence map → phỏng vấn 3–5 chủ shop → tổng hợp | Pain đã kiểm chứng hoặc bị bác bỏ → **03 PRD** chỉ đưa vào MVP những gì có bằng chứng |
 
-> **Trạng thái:** 🔧 Đã có giả thuyết và bộ câu hỏi. **Chưa phỏng vấn.** Kết quả sẽ ghi vào `interviews/` và [synthesis.md](synthesis.md).
+> **Trạng thái:** 🔧 Đã có giả thuyết, bộ câu hỏi và một vòng **mô phỏng** để chạy thử quy trình ([simulated/](simulated/)). **Chưa phỏng vấn thật.** Kết quả thật sẽ ghi vào `interviews/` và [synthesis.md](synthesis.md).
 
 ## 1. Giả thuyết
 
@@ -31,4 +31,5 @@
 - [recruiting.md](recruiting.md): tìm người, tin nhắn mời, bảng theo dõi
 - [interview-guide.md](interview-guide.md): tiêu chí chọn người và bộ câu hỏi
 - [interview-notes-template.md](interview-notes-template.md): mẫu ghi chép mỗi buổi
-- [synthesis.md](synthesis.md): tổng hợp sau khi có ít nhất 3 buổi
+- [synthesis.md](synthesis.md): tổng hợp sau khi có ít nhất 3 buổi thật
+- [simulated/](simulated/): 3 buổi phỏng vấn **mô phỏng** và tổng hợp, chỉ để chạy thử quy trình
